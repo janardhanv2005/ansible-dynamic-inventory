@@ -4,7 +4,6 @@ filters:
   tag:Name: roboshop-frontend
 hostnames:
   - private-ip-address
-
 keyed_groups:
   - key: tags.Name
     separator: ''
